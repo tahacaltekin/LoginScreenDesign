@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "234174990279",
+    "project_id": "signupproject-4bbe8",
+    "storage_bucket": "signupproject-4bbe8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234174990279:android:da46aec8eef11814bd3be2",
+        "android_client_info": {
+          "package_name": "com.taha.loginscreendesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234174990279-d3h2ibvi3j2f3chi6vvhc3a13d3hgifp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp_w2iQWph6Q0AkP886wF1l4AOE7VNWVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234174990279-d3h2ibvi3j2f3chi6vvhc3a13d3hgifp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
